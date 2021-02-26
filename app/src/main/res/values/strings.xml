@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">program2</string>
+    <string name="app_name">Student Portal</string>
+    <string name="enrollment_list"> Game Dev for Mobile Platforms (CS 441)\nProgramming Languages (CS 471)\nProbability with Statistic Methods (MATH 327)\nAdvanced Topics Object Oriented Programming (CS 440)</string>
+    <string name="payment_list"> Number of Credits: 16\nBalance Due: $5000.01\nTime Remaining: 4 days</string>
 </resources>
